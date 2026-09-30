@@ -2,20 +2,6 @@
 
 A terminal-inspired, multi-page portfolio for Charan Tej P, an Artificial Intelligence & Data Science graduate based in Bengaluru, India. Built with React, Vite, React Router, Tailwind CSS, and Framer Motion.
 
-## Screenshots
-
-### Home
-
-![Home page with terminal navigation and status panel](public/images/portfolio-home.png)
-
-### Projects
-
-![Projects page with terminal-style project entries](public/images/portfolio-projects.png)
-
-### Contact
-
-![Contact page with contact methods and validated message form](public/images/portfolio-contact.png)
-
 ## Features
 
 - Independent routes for Home, About, Education, Skills, Projects, project details, Certifications, and Contact.
